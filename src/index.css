@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  color: #dfff00;
+}
+
+body {
+  font-size: larger;
+  background-color: #f1f5f9;
+}
+
+header {
+  font-color: white;
+}
